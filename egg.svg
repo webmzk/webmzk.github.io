@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130">
+  <defs>
+    <linearGradient id="eggGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFDAB9;" />
+      <stop offset="50%" style="stop-color:#FFE4B5;" />
+      <stop offset="100%" style="stop-color:#FFDAB9;" />
+    </linearGradient>
+  </defs>
+  <path d="M50,100 C62,100 72,110 72,125 C72,140 62,150 50,150 C38,150 28,140 28,125 C28,110 38,100 50,100 Z" fill="url(#eggGradient)" stroke="#D66B32" stroke-width="4" />
+  <path d="M50,50 C62,50 72,60 72,75 C72,90 62,100 50,100 C38,100 28,90 28,75 C28,60 38,50 50,50 Z" fill="url(#eggGradient)" stroke="#D66B32" stroke-width="4" />
+</svg>
